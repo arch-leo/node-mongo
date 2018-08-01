@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "mongodb": "registry:dt/mongodb#2.1.0+20170212052546"
+  }
+}
